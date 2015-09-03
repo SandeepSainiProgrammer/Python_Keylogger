@@ -15,9 +15,9 @@ date = datetime.datetime.now()
 logfile = open(filename, 'a')
 
 text += ' \t\t  ######################################  \n'
-text += ' \t\t  ##    Proudly Made By An INDIAN     ##\n'
-text += ' \t\t  ##   Author : Rohit Saxsena INDIA   ##\n'
-text += ' \t\t  ##        Version : V0.1wK          ##\n'
+text += ' \t\t  #				      ##\n'
+text += ' \t\t  ##   Author : Sandeep Saini           ##\n'
+text += ' \t\t  ##        Version : V0.1wK            ##\n'
 text += ' \t\t  ######################################  \n'
 logfile.write(text)
 logfile.close()
